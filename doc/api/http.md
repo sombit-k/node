@@ -1655,7 +1655,7 @@ affects new connections to the server, not any existing connections.
 ### `server[Symbol.asyncDispose]()`
 
 <!-- YAML
-added: REPLACEME
+added: v18.18.0
 -->
 
 > Stability: 1 - Experimental
